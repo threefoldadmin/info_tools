@@ -10,3 +10,8 @@ some examples
 - https://threefoldfoundation.github.io/info_tokens/#/
 
 see https://docsify.js.org/#/markdown
+
+## some nice trick: includes
+
+- see https://docsify.js.org/#/embed-files?id=embed-files
+
