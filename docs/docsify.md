@@ -19,7 +19,7 @@ see https://docsify.js.org/#/markdown
 ## how to run locally
 
 - checkout the websites using git: 
-    - see on https://github.com/threefoldfoundation/...  most start with info_...
+    - see on https://github.com/threefoldfoundation/...  repos start with info_...
 - now go to the directory where they are checked out and go into docs
 - then do
 
