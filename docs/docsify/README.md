@@ -1,9 +1,11 @@
 
-# docsify
+# docsify is our wiki tool
+
+![](front.png)
 
 super nice tool which we use to create our documentation/tech websites
 
-some examples
+## some examples
 
 - https://threefoldfoundation.github.io/info_tech/#/
 - https://threefoldfoundation.github.io/info_foundation/#/
@@ -18,14 +20,5 @@ see https://docsify.js.org/#/markdown
 
 ## how to run locally
 
-- checkout the websites using git: 
-    - see on https://github.com/threefoldfoundation/...  repos start with info_...
-- now go to the directory where they are checked out and go into docs
-- then do
-
-```bash
-python -m SimpleHTTPServer 3000
-```
-
-- now to to the website on: http://localhost:3000/#/
+- still to be documented (#TODO:)
 
