@@ -2,4 +2,4 @@
 
 see published site on
 
-https://threefoldfoundation.github.io/info_tools/
+https://github.com/threefoldfoundation/info_foundation/blob/development/docs/collaboration/tools.md
